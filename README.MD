@@ -1,5 +1,10 @@
 # CRUD in Golang
 
+![GitHub repo size](https://img.shields.io/github/repo-size/willsTavares/golang-web?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/willsTavares/golang-web?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/willsTavares/golang-web?style=for-the-badge)
+![GitHub open issues](https://img.shields.io/github/issues/willsTavares/golang-web?style=for-the-badge)
+
 This project is a  CRUD application built using Go, HTML, and PostgreSQL.
 
 ## Description
